@@ -1,5 +1,4 @@
 <h1><strong>AirBnB clone - Web static</strong></h1>
-<br>
 <h2><strong>Web static, what?</strong></h2>
 <p>Now that you have a command interpreter for managing your AirBnB objects, it’s time to make them alive!</P>
 <p>Before developing a big and complex web application, we will build the front end step-by-step.</P>
@@ -11,9 +10,7 @@
     <li>No Javascript</li>
     <li>No data loaded from anything</li>
 </ul>
-<br>
 <h1><strong>Learning Objectives</strong></h1>
-<br>
 <h2><strong>General</strong></h2>
 <ul>
     <li>What is HTML</li>
